@@ -1,8 +1,9 @@
 package com.xqc.seckill.statenum;
 
 /**
- * 使用枚举表述常量数据字段
- * Created by zhangyijun on 15/10/16.
+ * 使用枚举表示常量定义字段
+ * @author A Cang（xqc）
+ *
  */
 public enum  SeckillStatEnum {
     SUCCESS(1,"秒杀成功"),
