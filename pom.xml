@@ -4,7 +4,7 @@
   <groupId>com.xqc</groupId>
   <artifactId>Seckill</artifactId>
   <packaging>war</packaging>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
   <name>Seckill Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
