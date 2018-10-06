@@ -12,5 +12,6 @@
   	<module>Seckill-API</module>
   	<module>Seckill-SERVICE</module>
   	<module>Seckill-WEB</module>
+  	<module>Seckill-ROOT</module>
   </modules>
 </project>
